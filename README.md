@@ -1,7 +1,7 @@
 # Kenya Health Records Analysis
 
 ## Project Overview
-This is a compilation of a hospital's patient health records including a list of different aliments affecting patients at diifferent age groups, their treatment plans and diagnosis.
+This is a compilation of a hospital's patient health records including a list of different ailments affecting patients at different age groups, their treatment plans and diagnosis.
 
 ## Tools used
 - microsoft excel
